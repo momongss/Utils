@@ -1,4 +1,4 @@
-printf "push message : "
+printf "Work Description : "
 read message
 
 git add .
